@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikhil.
-- 👀 I’m interested in web development.
+- 👀 Web development is my passion.
 - 📫 How to reach me : <a>https://www.linkedin.com/in/nikhil-a-r/</a>
 
 <!---
